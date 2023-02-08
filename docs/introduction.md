@@ -1,4 +1,4 @@
-#The importance of Digital Epidemiology
+# The importance of Digital Epidemiology
 
 *Digital Epidemiology* is an emerging field, which can be broadly described as the use of digital data for the purpose of answering epidemiological questions.
 
